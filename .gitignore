@@ -1,0 +1,51 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+#go
+go.mod
+go.sum
+
+build
+cmake-build-debug
+.idea
+.DS_Store
+bazel-out
+bazel-*
+.clwb
+docs/xml
+.vscode
+xre2/version.h
+tests/config.h
+Testing
+__pychache__
+_skbuild
